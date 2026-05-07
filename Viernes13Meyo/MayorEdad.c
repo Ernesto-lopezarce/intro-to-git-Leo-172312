@@ -12,5 +12,7 @@ int main() {
         printf("Te falta vivir bb\n");
     }
 
+    printf("paseme con 100 profe");
+
     return 0;
 }
